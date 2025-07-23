@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+PyPDF2
+python-dotenv
+faiss-cpu
+pydantic
+tqdm
+sentence-transformers
+pandas
